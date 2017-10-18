@@ -1,0 +1,9 @@
+/Users/johnd20/Desktop/Repos/johnDeleons_Project/iLOVEChristieProject/HextoRGB/HextoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/johnd20/Desktop/Repos/johnDeleons_Project/iLOVEChristieProject/HextoRGB/HextoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/johnd20/Desktop/Repos/johnDeleons_Project/iLOVEChristieProject/HextoRGB/HextoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/johnd20/Desktop/Repos/johnDeleons_Project/iLOVEChristieProject/HextoRGB/HextoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/johnd20/Desktop/Repos/johnDeleons_Project/iLOVEChristieProject/HextoRGB/HextoRGB/obj/iPhoneSimulator/Debug/HextoRGB.csproj.CoreCompileInputs.cache
+/Users/johnd20/Desktop/Repos/johnDeleons_Project/iLOVEChristieProject/HextoRGB/HextoRGB/bin/iPhoneSimulator/Debug/HextoRGB.exe
+/Users/johnd20/Desktop/Repos/johnDeleons_Project/iLOVEChristieProject/HextoRGB/HextoRGB/bin/iPhoneSimulator/Debug/HextoRGB.pdb
+/Users/johnd20/Desktop/Repos/johnDeleons_Project/iLOVEChristieProject/HextoRGB/HextoRGB/obj/iPhoneSimulator/Debug/HextoRGB.exe
+/Users/johnd20/Desktop/Repos/johnDeleons_Project/iLOVEChristieProject/HextoRGB/HextoRGB/obj/iPhoneSimulator/Debug/HextoRGB.pdb
